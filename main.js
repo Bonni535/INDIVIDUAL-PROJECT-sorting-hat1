@@ -38,3 +38,9 @@ const filter = (array, houseString) => {
 
   return houseArray;
 }
+
+const showAllHousesButton = document.querySelector("#allHouses-btn");
+  const showGryffondorButton = document.querySelector("#gryffondor-btn");
+  const showSlytherinButton = document.querySelector("#slytherin-btn");
+  const showHufflepuffButton = document.querySelector("#hufflepuff-btn");
+  const showRavenclawButton = document.querySelector("#ravenclaw-btn");
