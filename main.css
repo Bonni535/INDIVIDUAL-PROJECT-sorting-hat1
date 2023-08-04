@@ -1,3 +1,35 @@
 body {
     background-color: aliceblue;
+    background-image: url("https://images.ctfassets.net/usf1vwtuqyxm/2sLwPSOVqoOyCkEgSk0Oek/2a8885b787d86f7bed89e84cf2aa28d5/MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment.jpg");
+    
+}
+
+h1 {
+    color: aliceblue;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Rowdies', cursive;
+}
+
+h2 {
+    color: aliceblue;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Rowdies', cursive;
+}
+
+.students {
+    display: flex;
+    box-sizing: content-box;
+    
+}
+
+.card {
+    background-color: bisque;
+    background-image: url("https://i.pinimg.com/originals/11/5b/6f/115b6f0126bb5c48cad148336a1d3f0c.jpg");
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Rowdies', cursive;
+    text-align: center;
+    border-color: darkgrey;
+    border-style: solid;
+    
 }
