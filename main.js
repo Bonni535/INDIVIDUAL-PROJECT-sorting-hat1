@@ -18,6 +18,12 @@ const students = [
       name: "Luna Lovegood",
       house: "Ravenclaw",
     },
+
+    {
+      id: 3,
+      name: "Draco Malfoy",
+      house: "Slytherin",
+    },
   ];
   const studentsDeleted = []
 
